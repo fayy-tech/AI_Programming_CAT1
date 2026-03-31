@@ -1,0 +1,4 @@
+Name: faith
+Student ID: 260003DAI
+Favorite AI Tool: GIT COPILOT
+---------------------------
